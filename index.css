@@ -287,17 +287,14 @@ section {
         margin-left: 50%;
         margin-right: 50%;
     }
-}
+}*/
 
 @media (max-width: 858px){
     section .cvr img {
-        width: 30%;
-        height: 30%;
-        display: block;
-        margin-left: 50%;
-        margin-right: 50%;
+        width: 125%;
+      transform: translateX(-10%);
     }
-}*/
+}
 
 section h4 {
     color: #fff;
