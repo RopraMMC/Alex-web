@@ -1,0 +1,23 @@
+section img {  
+    margin-top: 2rem;
+}
+
+
+@media (max-width: 858px){
+    section .abt-img img {
+        width: 125%;
+      transform: translateX(-10%);
+    }
+}
+
+section h4, p {
+    color: #fff;
+}
+
+section .abt-me-txt p {
+    color: #fff;
+}
+
+p {
+    color: #fff;
+}
